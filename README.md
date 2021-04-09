@@ -9,7 +9,7 @@ This boilerplate is provided at the end of the [Learn JavaScript](https://learnj
 **First time**
 
 ```bash
-git clone git@github.com:jadjoubran/web-starter-parcel.git
+git clone https://github.com/jadjoubran/web-starter-parcel.git
 cd web-starter-parcel
 npm install
 ```
