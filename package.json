@@ -18,10 +18,10 @@
     "url": "https://github.com/jadjoubran/web-starter-parcel/issues"
   },
   "homepage": "https://github.com/jadjoubran/web-starter-parcel#readme",
-  "devDependencies": {
-    "parcel-bundler": "^1.12.4"
-  },
   "dependencies": {
     "date-fns": "^2.11.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.3.1"
   }
 }
