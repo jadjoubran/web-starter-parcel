@@ -2,7 +2,6 @@
   "name": "web-starter-parcel",
   "version": "1.0.0",
   "description": "Web starter parcel",
-  "main": "src/index.js",
   "scripts": {
     "serve": "parcel index.html",
     "build": "parcel build index.html",
@@ -22,6 +21,6 @@
     "date-fns": "^2.11.1"
   },
   "devDependencies": {
-    "parcel": "^2.0.0-beta.3.1"
+    "parcel": "^2.0.0-rc.0"
   }
 }
