@@ -21,6 +21,6 @@
     "date-fns": "^2.11.1"
   },
   "devDependencies": {
-    "parcel": "^2.0.0-rc.0"
+    "parcel": "^2.0.0"
   }
 }
